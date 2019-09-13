@@ -6,3 +6,9 @@ Hi everyone! my name is Van Tang Kien and I am ....
 ## My Career Passions
 
 ## My Hobbies
+
+## My favorite books
+* Bible
+* Angular
+* .NET
+* NestJs
